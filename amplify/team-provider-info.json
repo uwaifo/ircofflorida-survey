@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ircoffloridasurvey-dev-115849-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516243591854:role/amplify-ircoffloridasurvey-dev-115849-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516243591854:role/amplify-ircoffloridasurvey-dev-115849-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ircoffloridasurvey-dev-115849-deployment",
+      "UnauthRoleName": "amplify-ircoffloridasurvey-dev-115849-unauthRole",
+      "StackName": "amplify-ircoffloridasurvey-dev-115849",
+      "StackId": "arn:aws:cloudformation:us-east-1:516243591854:stack/amplify-ircoffloridasurvey-dev-115849/9130ef80-f8d4-11ea-bfbc-122ae4ce5d77",
+      "AmplifyAppId": "d2yw5n8u6q716g"
+    }
+  }
+}
